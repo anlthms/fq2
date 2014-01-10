@@ -2,8 +2,10 @@ GE Flight Quest 2
 https://www.gequest.com/c/flight2-main
 
 List of files:
-sep10waypoints.csv                      : Optimized waypoints for September 10th
-sep10routes.png                         : Routes followed by the simulator with sep10waypoints.csv as input 
-predictedLandings_20130910_1803.csv     : Predicted landing schedule
-predictedTakeoffs_20130910_1803.csv     : Predicted takeoff schedule
-predictedweather_20130910_1803.txt.gz   : Predicted weather (generated from NOAA RAP forecasts)
+sep10waypoints.csv                     : Optimized waypoints for September 10th
+sep10routes.png                        : Routes followed by the simulator with
+                                         sep10waypoints.csv as input 
+predictedLandings_20130910_1803.csv    : Predicted landing schedule
+predictedTakeoffs_20130910_1803.csv    : Predicted takeoff schedule
+predictedweather_20130910_1803.txt.gz  : Predicted weather (generated from NOAA RAP
+                                         forecasts)
